@@ -1,4 +1,4 @@
-CrazyGAMES — Tableau de bord des commandes
+CrazyGAMES (titre du projet) — Tableau de bord des commandes
 Description du projet
 CrazyGAMES: est une application frontend développée dans le cadre du TP4. Réalisée avec HTML, CSS et JavaScript, elle permet de consulter et d’analyser un tableau de bord de commandes de jeux vidéo.
 
